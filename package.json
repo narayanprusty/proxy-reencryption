@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "crypto-js": "^4.1.1",
+    "hardhat": "^2.13.0",
+    "proxy-recrypt-js-seed": "^1.1.3"
+  },
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
